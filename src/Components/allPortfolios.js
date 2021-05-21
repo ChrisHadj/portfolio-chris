@@ -2,8 +2,6 @@ import port1 from '../img/portImages/maya-1.jpg';
 import port2 from '../img/portImages/port1.jpg';
 import port3 from '../img/portImages/port2.jpg';
 import port4 from '../img/portImages/port3.jpg';
-import port6 from '../img/portImages/port5.jpg';
-import port7 from '../img/portImages/port6.jpg';
 
 
 const portfolios = [
@@ -15,7 +13,8 @@ const portfolios = [
         icon1: 'Github',
         icon2: 'Visite',
         image: port1,
-        title: 'Casa di Famiglia - Rhodes'
+        title: 'Casa di Famiglia - Rhodes',
+        desc: 'Freelance project for a restaurant in Rhodes'
     },
     {
         id: 2,
@@ -25,7 +24,8 @@ const portfolios = [
         icon1: 'Github',
         icon2: 'Visite',
         image: port2,
-        title: 'Personal website for Rhodes Island'
+        title: 'Rhodes Island',
+        desc: 'Personal website for Rhodes Island made with GatsbyJs'
     },
     {
         id: 3,
@@ -35,7 +35,8 @@ const portfolios = [
         icon1: 'Github',
         icon2: 'Visite',
         image: port3,
-        title: 'Tesla clone'
+        title: 'Tesla clone',
+        desc: 'Tesla clone made with ReactJs and Redux'
     },
     {
         id: 4,
@@ -45,7 +46,8 @@ const portfolios = [
         icon1: 'Github',
         icon2: 'Visite',
         image: port4,
-        title: 'Portfolio'
+        title: 'Portfolio',
+        desc: 'Personal portfolio made with ReactJs'
     },
 ]
 
