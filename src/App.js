@@ -20,9 +20,9 @@ function App() {
         <NavBar />
       </div>
       <div className="nav-btn" onClick={navClick}>
-        <div className="line-1"></div>
-        <div className="line-2"></div>
-        <div className="line-3"></div>
+        <div className="lines-1"></div>
+        <div className="lines-2"></div>
+        <div className="lines-3"></div>
       </div>
 
       <div className="main-content">

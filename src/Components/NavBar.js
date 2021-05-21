@@ -31,7 +31,7 @@ const NavBar = () => {
             </NavLink>
           </li>
         </ul>
-        <footer className="footer">@2021 Lorem</footer>
+        <footer className="footer">@2021 Christophe</footer>
       </nav>
     </div>
   );

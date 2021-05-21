@@ -1,9 +1,7 @@
 import React from "react";
-import Glass from '../Components/Glass'
 import Tittle from "../Components/Tittle";
 import ImageSection from "../Components/ImageSection";
 import SkillsSection from "../Components/SkillsSection";
-import BackAbout from "../img/about-back.jpg"
 
 
 function AboutPage() {
@@ -17,7 +15,7 @@ function AboutPage() {
         <SkillsSection skill={"HTML/CSS"} progress={"80%"} width={"80%"} />
         <SkillsSection skill={"JavaScript"} progress={"60%"} width={"60%"} />
         <SkillsSection skill={"React Js"} progress={"80%"} width={"80%"} />
-        <SkillsSection skill={"Node Js"} progress={"80%"} width={"80%"} />
+        <SkillsSection skill={"GAtsby Js"} progress={"70%"} width={"70%"} />
         </div>
         
     </div>

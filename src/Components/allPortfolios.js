@@ -40,10 +40,12 @@ const portfolios = [
     {
         id: 4,
         category: 'React Js',
-        link1: 'www.youtube.com',
-        icon1: 'G',
+        link1: 'https://github.com/ChrisHadj/portfolio-chris',
+        link2: 'https://portfolio-christophe.netlify.app/',
+        icon1: 'Github',
+        icon2: 'Visite',
         image: port4,
-        title: 'Autodesk Maya'
+        title: 'Portfolio'
     },
 ]
 

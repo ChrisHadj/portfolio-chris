@@ -1,5 +1,4 @@
 import React from 'react';
-import about from '../img/about.jpg';
 
 function ImageSection() {
     return (
@@ -27,6 +26,7 @@ function ImageSection() {
                         
                         <p>: Greece, France, Belgium</p>
                     </div>
+                
                 </div>
                 
             </div>
