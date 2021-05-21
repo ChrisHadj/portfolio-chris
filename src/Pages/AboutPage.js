@@ -17,6 +17,7 @@ function AboutPage() {
         <SkillsSection skill={"React Js"} progress={"80%"} width={"80%"} />
         <SkillsSection skill={"Gatsby Js"} progress={"70%"} width={"70%"} />
         <SkillsSection skill={"Styled-components"} progress={"80%"} width={"80%"} />
+        <SkillsSection skill={"Bootstrap"} progress={"80%"} width={"80%"} />
         <SkillsSection skill={"Redux"} progress={"60%"} width={"60%"} />
         </div>
         
