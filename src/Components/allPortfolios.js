@@ -2,6 +2,7 @@ import port1 from '../img/portImages/maya-1.jpg';
 import port2 from '../img/portImages/port1.jpg';
 import port3 from '../img/portImages/port2.jpg';
 import port4 from '../img/portImages/port3.jpg';
+import port5 from '../img/portImages/port8.jpg';
 
 
 const portfolios = [
@@ -29,7 +30,7 @@ const portfolios = [
     },
     {
         id: 3,
-        category: 'Side Project',
+        category: 'React Js',
         link1: 'https://github.com/ChrisHadj/teslaclone',
         link2: 'https://tesla-clone-site.netlify.app/',
         icon1: 'Github',
@@ -48,6 +49,17 @@ const portfolios = [
         image: port4,
         title: 'Portfolio',
         desc: 'Personal portfolio made with ReactJs'
+    },
+    {
+        id: 5,
+        category: 'Tailwind CSS',
+        link1: 'https://github.com/ChrisHadj/fylo-landing-page',
+        link2: 'https://fylo-project-mentor.netlify.app/',
+        icon1: 'Github',
+        icon2: 'Visite',
+        image: port5,
+        title: 'Fylo project',
+        desc: 'Fylo project - Frontend Mentor'
     },
 ]
 
