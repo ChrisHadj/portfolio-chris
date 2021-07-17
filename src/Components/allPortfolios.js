@@ -3,6 +3,7 @@ import port2 from '../img/portImages/port1.jpg';
 import port3 from '../img/portImages/port2.jpg';
 import port4 from '../img/portImages/port3.jpg';
 import port5 from '../img/portImages/port8.jpg';
+import port6 from '../img/portImages/port7.jpg';
 
 
 const portfolios = [
@@ -60,6 +61,17 @@ const portfolios = [
         image: port5,
         title: 'Fylo project',
         desc: 'Fylo project - Frontend Mentor'
+    },
+    {
+        id: 6,
+        category: 'Next Js',
+        link1: 'https://github.com/ChrisHadj/crypto-tracker',
+        link2: 'https://crypto-tracker-next.netlify.app/',
+        icon1: 'Github',
+        icon2: 'Visite',
+        image: port6,
+        title: 'Crypto-tracker',
+        desc: 'Crypto Tracker with NextJs'
     },
 ]
 
