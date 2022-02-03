@@ -22,7 +22,7 @@ const portfolios = [
         id: 2,
         category: 'Gatsby Js',
         link1: 'https://github.com/ChrisHadj/gr-site',
-        link2: 'https://rhodes-site.netlify.app/',
+        link2: 'https://rhodes.netlify.app/',
         icon1: 'Github',
         icon2: 'Visite',
         image: port2,
